@@ -1,0 +1,69 @@
+*{
+    box-sizing: border-box;
+}
+
+.nav{
+    height: 40px;
+    background-color: greenyellow;
+}
+
+.name{
+    position: absolute;
+    left: 10px;
+    font-size: xx-large;
+}
+
+.home{
+    position: absolute;
+    left: 295px;
+    top: 21px;
+}
+
+.about{
+    position: absolute;
+    left: 340px;
+    top: 21px;
+}
+
+.search{
+    position: absolute;   
+    top: 18px;
+    right: 15px;
+}
+
+.login{
+    position: absolute;
+    right: 200px;
+    top: 21px;
+}
+
+.help{
+    position: absolute;
+    right: 304px;
+    top: 21px;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    float: right;
+}
+
+img{
+    height: 355px;
+    width: 300px;
+}
+
+.name2{
+    margin: 0;
+}
+
+.footer{
+    background-color: lightgoldenrodyellow;
+    display: flex;
+    margin: 0;
+}
+
+.foot{
+    padding-right: 20px;
+}

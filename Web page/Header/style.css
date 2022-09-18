@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6%;
+    background-color: lightcyan;
+}
+
+.both{
+    border: 5px solid black;
+}
+
+header{
+    font-size: xx-large;
+    padding: 5px;
+    background-color: lightblue;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+h2{
+    text-align: center;
+}
+
+section{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+section,footer{
+    background-color: lightgoldenrodyellow;
+}
+
+form{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h4{
+    padding: 7px;
+}
+
+.password{
+    padding: 7px;
+}
+
+footer{
+    padding: 7px;
+    
+}
